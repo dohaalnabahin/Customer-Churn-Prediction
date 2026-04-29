@@ -80,7 +80,7 @@ Data Loading → EDA → Preprocessing → SMOTE → Modeling → Evaluation
 ## 📈 Visualizations
 
 ### Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](Churn Distribution.png)
 
 ### ROC Curve — All Models
 ![ROC Curve](images/roc_curve.png)
