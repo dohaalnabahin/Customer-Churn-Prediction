@@ -80,19 +80,20 @@ Data Loading → EDA → Preprocessing → SMOTE → Modeling → Evaluation
 ## 📈 Visualizations
 
 ### Churn Distribution
-![Churn Distribution](Churn Distribution.png)
+![Churn Distribution](./Churn_Distribution.png)
 
 ### ROC Curve — All Models
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](./ROC_Curve.png)
+
 
 ### Feature Importance — Random Forest
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](./churn_rf_feature_importance.png)
 
 ### Permutation Importance — Random Forest
-![Permutation Importance](images/permutation_importance.png)
+![Permutation Importance](./churn_permutation_importance.png)
 
 ### Logistic Regression Coefficients
-![Coefficients](images/logistic_coefficients.png)
+![Logistic Coefficients](./churn_lr_coefficients.png)
 
 ---
 
